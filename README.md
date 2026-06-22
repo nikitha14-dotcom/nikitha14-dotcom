@@ -1,105 +1,45 @@
-<h1 align="center">Hi 👋, I'm I.V.L. Sai Nikitha</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Student | Future AI Engineer</h3>
+# 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Building+Real-World+AI+Solutions;Creator+of+DriveSafe+AI;Exploring+LandIQ+and+Future+Technologies;Learning+Full-Stack+Development" />
-</p>
+🎓 B.Tech Artificial Intelligence & Machine Learning Student at P P Savani University
 
----
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
 
-## 🚀 About Me
+🚗 Currently building DriveSafe AI – AI-Powered Driver Safety Monitoring System
 
-🎓 B.Tech Student in Artificial Intelligence & Machine Learning
+🌱 Exploring new AI ideas and planning future projects, including LandIQ – an AI-powered land intelligence platform
 
-🏫 P P Savani University
+📊 Experienced with Python, NumPy, Pandas, Machine Learning, CNNs, and Data Analysis
 
-🔭 Currently working on:
+📚 Continuously learning AI, Full-Stack Development, and Open Source Technologies
 
-* DriveSafe AI
-* LandIQ – Future Land Intelligence Platform
-* MNIST Digit Classification
+🚀 Goal: Build intelligent solutions that solve real-world problems
 
-🌱 Currently learning:
+# 🌐 Connect With Me
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Full Stack Development
-* Embedded Systems
-* Cloud Computing
+[LinkedIn](YOUR_LINKEDIN_URL)
 
-👯 Looking to collaborate on:
+[GitHub](https://github.com/nikitha14-dotcom)
 
-* AI & Machine Learning Projects
-* Computer Vision Applications
-* Research Projects
-* Open Source Contributions
+[Email](mailto:23SE02ML103@ppsu.ac.in)
 
-💬 Ask me about:
+# 💻 Tech Stack
 
-* Python
-* Machine Learning
-* Artificial Intelligence
-* Git & GitHub
-* CNN Models
-* Embedded Systems
+# 📈 GitHub Stats
 
-⚡ Fun Fact:
-I enjoy converting real-world problems into AI-powered solutions and documenting my learning journey daily.
+# 🚀 Featured Projects
 
----
+### 🚗 DriveSafe AI
 
-## 🛠️ Languages & Tools
+AI-powered driver safety monitoring system using computer vision, sensors, and machine learning.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,androidstudio,tensorflow,mysql,html,css,javascript" />
-</p>
+### 🔢 MNIST Digit Classification
 
----
+CNN-based handwritten digit recognition using TensorFlow and Keras.
 
-## 🚗 Featured Projects
+### 🤖 AI/ML Learning Repository
 
-### DriveSafe AI
+Daily AI and Machine Learning concepts, notes, and implementations.
 
-AI-powered driver safety system using Machine Learning, Computer Vision, IoT sensors, and environmental monitoring.
+### 🌍 LandIQ (Future Project)
 
-### LandIQ
-
-Future Land Intelligence Platform for smart land analysis, prediction, and sustainable planning.
-
-### MNIST Digit Classification
-
-CNN-based handwritten digit recognition system with high classification accuracy.
-
----
-
-## 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=nikitha14-dotcom\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikitha14-dotcom\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha14-dotcom\&layout=compact\&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=nikitha14-dotcom\&theme=tokyonight\&no-frame=true\&row=1)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=nikitha14-dotcom\&theme=tokyo-night)
-
----
-
-## 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/nikitha-innamuri-b29715393
-* GitHub: https://github.com/nikitha14-dotcom
-
----
-
-![](https://komarev.com/ghpvc/?username=nikitha14-dotcom\&label=Profile+Views\&color=blue)
+An AI-powered land intelligence platform currently in the planning and research phase.
